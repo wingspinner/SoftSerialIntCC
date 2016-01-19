@@ -46,6 +46,10 @@ Features:
 
 Notes:
 
+Acknowledgements
+ISRs heavily borrow from Paul Stoffregen's AltSoftSerial originally written for
+the Teensi
+
 Features:
 - Member functions compatible with Hardware Serial and Arduino NewSoftSerial Libs
 - Fully interrupt driven and uses timer capture and compare - no delay routines.
