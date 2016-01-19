@@ -43,6 +43,10 @@ Features:
 
 Notes:
 
+Acknowledgements
+ISRs heavily borrow from Paul Stoffregen's AltSoftSerial originally written for
+the Teensi
+
 Restrictions
 - Must use correct pins assigned to the capture/compare input/outputs of the timer
   you select. As currently defined:
